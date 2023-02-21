@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gawebny-reactjs-repo/static/css/main.33e0316c.css",
+    "main.js": "/gawebny-reactjs-repo/static/js/main.551fa491.js",
+    "index.html": "/gawebny-reactjs-repo/index.html",
+    "main.33e0316c.css.map": "/gawebny-reactjs-repo/static/css/main.33e0316c.css.map",
+    "main.551fa491.js.map": "/gawebny-reactjs-repo/static/js/main.551fa491.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33e0316c.css",
+    "static/js/main.551fa491.js"
+  ]
+}
