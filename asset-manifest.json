@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/gawebny-reactjs/login/static/css/main.33e0316c.css",
-    "main.js": "/gawebny-reactjs/login/static/js/main.def60b0c.js",
-    "index.html": "/gawebny-reactjs/login/index.html",
-    "main.33e0316c.css.map": "/gawebny-reactjs/login/static/css/main.33e0316c.css.map",
-    "main.def60b0c.js.map": "/gawebny-reactjs/login/static/js/main.def60b0c.js.map"
+    "main.css": "/static/css/main.33e0316c.css",
+    "main.js": "/static/js/main.def60b0c.js",
+    "index.html": "/index.html",
+    "main.33e0316c.css.map": "/static/css/main.33e0316c.css.map",
+    "main.def60b0c.js.map": "/static/js/main.def60b0c.js.map"
   },
   "entrypoints": [
     "static/css/main.33e0316c.css",
