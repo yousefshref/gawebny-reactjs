@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gawebny-reactjs/static/css/main.33e0316c.css",
-    "main.js": "/gawebny-reactjs/static/js/main.beb4baa0.js",
+    "main.js": "/gawebny-reactjs/static/js/main.a7743dfa.js",
     "index.html": "/gawebny-reactjs/index.html",
     "main.33e0316c.css.map": "/gawebny-reactjs/static/css/main.33e0316c.css.map",
-    "main.beb4baa0.js.map": "/gawebny-reactjs/static/js/main.beb4baa0.js.map"
+    "main.a7743dfa.js.map": "/gawebny-reactjs/static/js/main.a7743dfa.js.map"
   },
   "entrypoints": [
     "static/css/main.33e0316c.css",
-    "static/js/main.beb4baa0.js"
+    "static/js/main.a7743dfa.js"
   ]
 }
