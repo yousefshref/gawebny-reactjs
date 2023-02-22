@@ -13,8 +13,8 @@ function App() {
       <PostContext>
         <Routes>
           <Route element={<Signup />} path='/signup' />
-          <Route exact element={<Login />} path='/login' />
-          <Route element={<PrivateRoute><Home /></PrivateRoute>} path='/' />
+          <Route element={<Login />} path='/login' />
+          <Route exact element={<PrivateRoute><Home /></PrivateRoute>} path='/' />
           <Route element={<PrivateRoute><PostPage /></PrivateRoute>} path='/post/:post' />
         </Routes>
       </PostContext>
