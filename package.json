@@ -1,6 +1,10 @@
 {
   "name": "gawebny",
+<<<<<<< HEAD
   "homepage": "https://yousefshref.github.io/",
+=======
+  "homepage": "https://yousefshref.github.io/gawebny-reactjs/",
+>>>>>>> d4628df38d3f660e69571cda5f3709ac21023644
   "version": "0.1.0",
   "private": false,
   "dependencies": {
@@ -19,6 +23,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
